@@ -10,9 +10,9 @@
   <div class="header">
     <h1>Hi 👋, I'm Mohandas T S</h1>
   </div>
-  <h3 align="center">A Passionate Full Stack Developer</h3>
-  
+  <h3 align="center">A Passionate Full Stack Dev</h3>
   <div class="content">
+     <p>⚡With a keyboard in hand and a passion for problem-solving, I'm a self-taught MERN stack developer ready to code the future. Whether it's crafting smooth user interfaces or architecting robust backend systems, I'm here to make the web a better place—one line of code at a time. And no, I won't fix your Wi-Fi router! 😄</p>
     <div>
       <p align="left">
         <img src="https://komarev.com/ghpvc/?username=mohandaz3&label=Profile%20views&color=0e75b6&style=flat" alt="mohandaz3" />
@@ -20,7 +20,6 @@
       <p>👨‍💻 All of my projects are available at <a href="https://mohandaz3.github.io/Mohandas-T-S/">Portfolio</a></p>
       <p>📫 How to reach me <strong>mohandassrinivasan@gmail.com</strong></p>
       <p>📄 Know about my experiences <a href="https://drive.google.com/file/d/1-c3ajb8Ofa9JGK_97vU05Ox7XxLhHJA4/view?usp=sharing">Resume</a></p>
-      <p>⚡ Summary: A MERN stack developer with a passion for crafting seamless web experiences. With extensive expertise in HTML, CSS, Node.js, Express Js, React Js, Redux, MongoDB, PostgreSQL, MySQL, and more, honed skills through various projects, continually sharpening abilities to deliver top-notch solutions.</p>
       <h3>Connect with me:</h3>
       <p align="left">
         <a href="https://linkedin.com/in/www.linkedin.com/in/mohandas-t-s" target="blank">
