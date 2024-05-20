@@ -10,7 +10,7 @@
   <div class="header">
     <h1>Hi 👋, I'm Mohandas T S</h1>
   </div>
-  <h3 align="center">A Passionate MERN Stack Developer</h3>
+  <h3 align="center">A Passionate Full Stack Developer</h3>
   
   <div class="content">
     <div>
