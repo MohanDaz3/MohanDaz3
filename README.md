@@ -17,9 +17,9 @@
       <p align="left">
         <img src="https://komarev.com/ghpvc/?username=mohandaz3&label=Profile%20views&color=0e75b6&style=flat" alt="mohandaz3" />
       </p>
-      <p>👨‍💻 All of my projects are available at <a href="https://mohandaz3.github.io/Mohandas-T-S/">Portfolio</a></p>
+      <p>👨‍💻 All of my projects are available at <a href="https://portfolio-mohandasts.netlify.app/">Portfolio</a></p>
       <p>📫 How to reach me <strong>mohandassrinivasan@gmail.com</strong></p>
-      <p>📄 Know about my experiences <a href="https://drive.google.com/file/d/1-c3ajb8Ofa9JGK_97vU05Ox7XxLhHJA4/view?usp=sharing">Resume</a></p>
+      <p>📄 Know about my experiences <a href="https://drive.google.com/file/d/16Agt7D_I6vSsvDbvvAPleozbFrJ1SNwg/view?usp=sharing">Resume</a></p>
       <h3>Connect with me:</h3>
       <p align="left">
         <a href="https://linkedin.com/in/www.linkedin.com/in/mohandas-t-s" target="blank">
