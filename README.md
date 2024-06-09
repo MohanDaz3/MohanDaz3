@@ -12,7 +12,7 @@
   </div>
   <h3 align="center">A Passionate Full Stack Dev</h3>
   <div class="content">
-     <p>⚡With a keyboard in hand and a passion for problem-solving, I'm a self-taught MERN stack developer ready to code the future. Whether it's crafting smooth user interfaces or architecting robust backend systems, I'm here to make the web a better place—one line of code at a time. And no, I won't fix your Wi-Fi router! 😄</p>
+     <p>⚡With fingers poised over keys like a maestro ready to conduct a symphony of code, I've delved deep into the MERN stack, crafting digital marvels that defy expectation. From sculpting sleek UIs that mesmerize to architecting backends as sturdy as fortresses, I'm on a quest to revolutionize the web with each stroke of my keyboard. So, if you're ready to witness the magic of code unfold, join me on this exhilarating journey—one line at a time. And sorry, troubleshooting Wi-Fi routers isn't my forte—my domain lies in the electrifying realm of programming! Avengers assemble!!! 😄</p>
     <div>
       <p align="left">
         <img src="https://komarev.com/ghpvc/?username=mohandaz3&label=Profile%20views&color=0e75b6&style=flat" alt="mohandaz3" />
